@@ -1,0 +1,12 @@
+{
+  "name": "site-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "site": "npm run --prefix sveltekit dev",
+    "server": "npm run --prefix node-server start"
+  },
+  "author": "",
+  "license": "ISC"
+}
